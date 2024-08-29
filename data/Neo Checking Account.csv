@@ -1,0 +1,85 @@
+TxnDate, PostedDate,Payee,Amount,Balance
+Apr 1, Apr 1, Transfer from High-Interest account ,36.00, 38.20
+Apr 1, Apr 2, AMZN Mktp CA WWW.AMAZON.CA CAN ,-37.28, 0.92
+Apr 3, Apr 3, Transfer from High-Interest account ,76.00, 76.92
+Apr 3, Apr 3, Payment to Credit ,-72.36, 4.56
+Apr 4, Apr 5, TIM HORTONS #1809 SCARBOROUGH CAN ,-2.40, 2.16
+Apr 15, Apr 15, Transfer from High-Interest account ,235.00, 237.16
+Apr 15, Apr 15, Payment to Credit ,-225.87, 11.29
+Apr 15, Apr 16, Amazon.ca Prime Member amazon.ca/pri CAN ,-11.29, 0.00
+Apr 21, Apr 21, Transfer from High-Interest account ,7.00, 7.00
+Apr 22, Apr 22, Transfer from High-Interest account ,155.00, 162.00
+Apr 21, Apr 22, Spotify P2B925D497 Stockholm SWE ,-6.77, 155.23
+Apr 22, Apr 23, Amazon.ca AMAZON.CA CAN ,-152.99, 2.24
+Apr 23, Apr 23, Transfer from High-Interest account ,40.00, 42.24
+Apr 23, Apr 23, Payment to Credit ,-30.78, 11.46
+Apr 23, Apr 24, Amazon.ca AMAZON.CA CAN ,-10.02, 1.44
+Apr 23, Apr 24, TIM HORTONS #1809 SCARBOROUGH CAN ,-1.39, 0.05
+Apr 25, Apr 25, Transfer from High-Interest account ,200.00, 200.05
+Apr 25, Apr 25, e-Transfer to Patrick Tax ,-40.00, 160.05
+Apr 25, Apr 25, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-158.00, 2.05
+Apr 29, Apr 29, Transfer from High-Interest account ,50.00, 52.05
+Apr 29, Apr 30, NEW KALYANI TAKE OUT & SCARBOROUGH CAN ,-9.04, 43.01
+Apr 30, Apr 30, Transfer from High-Interest account ,650.00, 693.01
+Apr 30, Apr 30, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-650.00, 43.01
+Apr 30, Apr 30, Interest ,0.02, 43.03
+Mar 1, Mar 1, Transfer from High-Interest account ,650.00, 656.74
+Mar 1, Mar 1, Transfer from High-Interest account ,10.00, 666.74
+Mar 1, Mar 1, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-650.00, 16.74
+Mar 1, Mar 2, TIM HORTONS #1809 SCARBOROUGH CAN ,-11.70, 5.04
+Mar 5, Mar 5, Transfer from High-Interest account ,45.00, 50.04
+Mar 5, Mar 5, Interac e-Transfer Fulfllment to Coinbase ,-10.00, 40.04
+Mar 5, Mar 5, Interac e-transfer sent from Coinbase ,8.00, 48.04
+Mar 5, Mar 5, Transfer from High-Interest account ,52.00, 100.04
+Mar 5, Mar 5, Interac e-Transfer Fulfllment to Coinbase ,-100.00, 0.04
+Mar 8, Mar 8, Interac e-transfer sent from PRATIK GUPTA ,500.00, 500.04
+Mar 8, Mar 8, Payment to Credit ,-179.28, 320.76
+Mar 8, Mar 8, Transfer to High-Interest account ,-320.76, 0.00
+Mar 8, Mar 8, Interac e-transfer sent from PRATIK GUPTA, 1000.00, 1000.00
+Mar 9, Mar 9, Transfer to High-Interest account ,-993.23, 6.77
+Mar 9, Mar 9, Spotify P2A78363EB Stockholm SWE ,-6.77, 0.00
+Mar 13, Mar 13, Transfer from High-Interest account ,33.33, 33.33
+Mar 13, Mar 13, Payment to Credit ,-33.33, 0.00
+Mar 22, Mar 22, Transfer from High-Interest account ,170.00, 170.00
+Mar 22, Mar 22, Payment to Credit ,-156.02, 13.98
+Mar 22, Mar 22, Interac e-transfer sent from PRATIK GUPTA, 2717.31, 2731.29
+Mar 22, Mar 22, Transfer to High-Interest account ,-2731.29, 0.00
+Mar 25, Mar 25, Transfer from High-Interest account ,35.00, 35.00
+Mar 25, Mar 25, Payment to Credit ,-32.86, 2.14
+Mar 31, Mar 31, Interest ,0.06, 2.20
+Feb 8, Feb 8, Interac e-transfer sent from SHIVAMMANCHANDA ,234.00, 234.82
+Feb 10, Feb 10, Transfer to High-Interest account ,-228.00, 6.82
+Feb 10, Feb 10, Spotify P29C1BEC9A Stockholm SWE ,-6.77, 0.05
+Feb 13, Feb 13, Transfer from High-Interest account ,78.82, 78.87
+Feb 13, Feb 13, Payment to Credit ,-78.82, 0.05
+Feb 15, Feb 15, Transfer from High-Interest account ,5.00, 5.05
+Feb 15, Feb 16, TIM HORTONS #1809 SCARBOROUGH CAN ,-2.17, 2.88
+Feb 16, Feb 16, Transfer from High-Interest account ,30.00, 32.88
+Feb 21, Feb 22, TIM HORTONS #1809 SCARBOROUGH CAN ,-2.17, 30.71
+Feb 23, Feb 24, AMAZING SHAWARMA AND F SCARBOROUGH CAN ,-29.65, 1.06
+Feb 27, Feb 27, Transfer from High-Interest account ,200.00, 201.06
+Feb 27, Feb 27, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-200.00, 1.06
+Feb 27, Feb 27, Transfer from High-Interest account ,100.00, 101.06
+Feb 27, Feb 27, Payment to Credit ,-96.37, 4.69
+Feb 27, Feb 27, Transfer from High-Interest account ,200.00, 204.69
+Feb 27, Feb 27, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-200.00, 4.69
+Feb 27, Feb 27, Transfer from High-Interest account ,52.00, 56.69
+Feb 27, Feb 27, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-50.00, 6.69
+Feb 29, Feb 29, Interest ,0.05, 6.74
+Jan 1, Jan 1, Transfer from High-Interest account ,250.00, 250.01
+Jan 1, Jan 1, Transfer from High-Interest account ,450.00, 700.01
+Jan 1, Jan 1, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-200.00, 500.01
+Jan 2, Jan 2, Spotify P286FF9567 Stockholm SWE ,-6.77, 493.24
+Jan 9, Jan 9, Payment to Credit ,-70.90, 422.34
+Jan 9, Jan 9, Transfer to High-Interest account ,-420.84, 1.50
+Jan 22, Jan 22, Transfer from High-Interest account ,135.00, 136.50
+Jan 22, Jan 22, Payment to Credit ,-132.75, 3.75
+Jan 22, Jan 22, Payment to Credit ,-2.17, 1.58
+Jan 23, Jan 23, Payment to Credit ,-1.00, 0.58
+Jan 28, Jan 28, Transfer from High-Interest account ,500.00, 500.58
+Jan 28, Jan 28, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-500.00, 0.58
+Jan 29, Jan 29, Transfer from High-Interest account ,600.00, 600.58
+Jan 29, Jan 29, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-600.00, 0.58
+Jan 31, Jan 31, Transfer from High-Interest account ,100.00, 100.58
+Jan 31, Jan 31, Interac e-Transfer Fulfllment to PRATIK GUPTA ,-100.00, 0.58
+Jan 31, Jan 31, Interest, 0.24 ,0.82
