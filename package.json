@@ -8,8 +8,8 @@
     "db:generate": "drizzle-kit generate:pg",
     "db:migrate": "tsx ./drizzle/migrate.ts",
     "db:studio": "drizzle-kit studio",
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "start": "next dev",
+    "build": "next build",
     "eject": "react-scripts eject"
   },
   "dependencies": {
